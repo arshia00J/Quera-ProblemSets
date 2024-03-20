@@ -21,6 +21,13 @@ This repository includes solutions to various problems hosted on Quera, an Irani
 | [heater-cooler](https://github.com/arshia00J/Quera-ProblemSets/tree/main/heater-cooler) | 147635 |
 | [hollow square](https://github.com/arshia00J/Quera-ProblemSets/tree/main/hollow%20square) | 591 |
 | [lcm-gcd](https://github.com/arshia00J/Quera-ProblemSets/tree/main/lcm-gcd) | 000 |
+| [logarithm](https://github.com/arshia00J/Quera-ProblemSets/tree/main/logarithm) | 183347 |
+| [mashti](https://github.com/arshia00J/Quera-ProblemSets/tree/main/mashti) | 209104 |
+| [max](https://github.com/arshia00J/Quera-ProblemSets/tree/main/max) | 588 |
+| [metro](https://github.com/arshia00J/Quera-ProblemSets/tree/main/metro) | 218361 |
+| [primebetween](https://github.com/arshia00J/Quera-ProblemSets/tree/main/primebetween) | 293 |
+| [promotion](https://github.com/arshia00J/Quera-ProblemSets/tree/main/promotion) | 136480 |
+| [pythagoras](https://github.com/arshia00J/Quera-ProblemSets/tree/main/pythagoras) | 280 |
 
 
 ## Usage
