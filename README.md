@@ -1,3 +1,5 @@
+[![Languages](https://skillicons.dev/icons?i=cpp,py,mysql)](https://skillicons.dev)
+
 # Quera-ProblemSets
 
 This repository contains my solutions to the problem sets published on Quera.
