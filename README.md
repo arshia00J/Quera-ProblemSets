@@ -1,5 +1,6 @@
-[![Languages](https://skillicons.dev/icons?i=cpp,py,mysql)](https://skillicons.dev)
-
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
 # Quera-ProblemSets
 
 This repository contains my solutions to the problem sets published on Quera.
