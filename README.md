@@ -1,4 +1,6 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 [![GitHub watchers](https://badgen.net/github/watchers/Naereen/Strapdown.js/)](https://github.com/arshia00J/Quera-ProblemSets/watchers/)
 
 # Quera-ProblemSets
