@@ -16,6 +16,11 @@ This repository includes solutions to various problems hosted on Quera, an Irani
 | [delta](https://github.com/arshia00J/Quera-ProblemSets/tree/main/delta) | 220669 |
 | [diet](https://github.com/arshia00J/Quera-ProblemSets/tree/main/diet) | 20256 |
 | [factorial](https://github.com/arshia00J/Quera-ProblemSets/tree/main/factorial) | 589 |
+| [findnum](https://github.com/arshia00J/Quera-ProblemSets/tree/main/findnum) | 66864 |
+| [gcd](https://github.com/arshia00J/Quera-ProblemSets/tree/main/gcd) | 305 |
+| [heater-cooler](https://github.com/arshia00J/Quera-ProblemSets/tree/main/heater-cooler) | 147635 |
+| [hollow square](https://github.com/arshia00J/Quera-ProblemSets/tree/main/hollow%20square) | 591 |
+| [lcm-gcd](https://github.com/arshia00J/Quera-ProblemSets/tree/main/lcm-gcd) | 000 |
 
 
 ## Usage
