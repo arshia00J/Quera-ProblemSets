@@ -10,9 +10,13 @@ This repository includes solutions to various problems hosted on Quera, an Irani
 
 | Problem Set | Code |
 |-------------|-------------|
-| [Problem Set 1](https://github.com/arshia00J/Quera-ProblemSets/tree/main/camera) | 2794 |
-| [Problem Set 2](https://github.com/arshia00J/Quera-ProblemSets/tree/main/completeness) | 282 |
-| [Problem Set N](https://github.com/arshia00J/Quera-ProblemSets/tree/main/copyof) | 8838 |
+| [camera](https://github.com/arshia00J/Quera-ProblemSets/tree/main/camera) | 2794 |
+| [completeness](https://github.com/arshia00J/Quera-ProblemSets/tree/main/completeness) | 282 |
+| [copyof](https://github.com/arshia00J/Quera-ProblemSets/tree/main/copyof) | 8838 |
+| [delta](https://github.com/arshia00J/Quera-ProblemSets/tree/main/delta) | 220669 |
+| [diet](https://github.com/arshia00J/Quera-ProblemSets/tree/main/diet) | 20256 |
+| [factorial](https://github.com/arshia00J/Quera-ProblemSets/tree/main/factorial) | 589 |
+
 
 ## Usage
 
